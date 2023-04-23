@@ -1,4 +1,4 @@
-baseURL = 'https://arnaszin.github.io/Arnas.github.io/'
+baseURL = 'https://github.com/ArnasZin/Arnas.github.io.git'
 languageCode = 'en-us'
 title = 'Arno puslapis'
 theme = "hello-friend"
